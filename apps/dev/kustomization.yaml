@@ -1,0 +1,8 @@
+bases:
+  - ../base
+commonAnnotations:
+  environment: dev
+images:
+  - name: nginx
+    newTag: 0.2-plaintext
+
