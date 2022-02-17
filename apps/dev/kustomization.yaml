@@ -3,6 +3,6 @@ bases:
 commonAnnotations:
   environment: dev
 images:
-  - name: nginx
-    newTag: 0.2-plaintext
+  - name: nginxdemos/hello
+    newTag: 0.2-plain-text
 
